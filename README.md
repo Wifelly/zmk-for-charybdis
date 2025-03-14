@@ -1,1 +1,1 @@
-zmk-config for charybdis 
+zmk-config for charybdis
